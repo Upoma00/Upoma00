@@ -1,18 +1,15 @@
-# Hi there 👋, my name is Upoma
-#### I am Data Scientist who is passionate
-![I am data Scientist passionate](https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg)
+#                                        Hi there 👋, my name is Khan Shariya Hasan Upoma
+#### Currently, I'm working as a research assistant in Dept of Computer Science and Business faculty at Sonargoan University on the project "Rural Farmer's Willingness to Use
+Al in Agriculture in the Digital Transformative Era"
 
-working as a RA at Sonargoan University in dept of CS
+In 2021, Previously I worked in NSU HCI DIAL Lab, a Pet project for Data Analysis  as a data scientist to analyze sentiment from qualitative research 
 
 Skills: C/C++/Python/DSA/OOP
 
 - 🔭 I’m currently working on Web-Scraping 
 - 🌱 I’m currently learning Data Science  
-- 👯 I’m looking to collaborate on LinkedIn 
 - 🤔 I’m looking for help with Motivation 
-- 💬 Ask me about Python  
 - 📫 How to reach me: Khanshariyahasanupoma@gmail.com 
-- ⚡ Fun fact: Passionate 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Upoma00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/khan-shariya-hasan-upoma/home)  
