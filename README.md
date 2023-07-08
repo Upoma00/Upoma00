@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Upoma
+# Hi there 👋, my name is Khan Shariya Hasan Upoma
 #### I am Data Scientist who is passionate
 ![I am data Scientist passionate](https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg)
 
