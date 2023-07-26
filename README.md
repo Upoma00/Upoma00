@@ -1,7 +1,7 @@
 #                                        Hi there 👋, my name is Khan Shariya Hasan Upoma
 Currently, I'm working as a research assistant in Dept of Computer Science and Business faculty at Sonargoan University on the project "Rural Farmer's Willingness to Use Al in Agriculture in the Digital Transformative Era"
 
-In 2021, Previously I worked in NSU HCI DIAL Lab, a Pet project for Data Analysis  as a data scientist to analyze sentiment from qualitative research 
+In 2021, Previously I worked in NSU HCI DIAL Lab, a Pet project for Data Analysis  as a data scientist to analyze sentiment from Quantitative research 
 
 Skills: C/C++/Python/DSA/OOP
 
