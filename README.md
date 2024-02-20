@@ -1,11 +1,11 @@
 #                                        Hi there 👋, my name is Khan Shariya Hasan Upoma
-Currently, I'm working as a research assistant in Dept of Computer Science and Business faculty at Sonargoan University on the project "Rural Farmer's Willingness to Use Al in Agriculture in the Digital Transformative Era"
+Currently, I'm working as a research assistant in the Dept of ECE at North South University on the project Quantum Computing Information & Communication.
 
 In 2021, Previously I worked in NSU HCI DIAL Lab, a Pet project for Data Analysis  as a data scientist to analyze sentiment from Quantitative research 
 
 Skills: C/C++/Python/DSA/OOP
 
-- 🔭 I’m currently working on Web-Scraping 
+- 🔭 I’m currently working on Quantum Computing area 
 - 🌱 I’m currently learning Data Science  
 - 🤔 I’m looking for help with Motivation 
 - 📫 How to reach me: Khanshariyahasanupoma@gmail.com 
